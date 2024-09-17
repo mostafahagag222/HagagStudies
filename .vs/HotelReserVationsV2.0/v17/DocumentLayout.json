@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VS22\\HotelReserVationsV2.0\\",
+  "WorkspaceRootPath": "D:\\New folder\\HagagStudies\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B292288-90A3-432E-B1E1-1B6474138C1A}|DataBaseLayer\\DataBaseLayer.csproj|d:\\vs22\\hotelreservationsv2.0\\databaselayer\\databaselayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3B292288-90A3-432E-B1E1-1B6474138C1A}|DataBaseLayer\\DataBaseLayer.csproj|solutionrelative:databaselayer\\databaselayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\vs22\\hotelreservationsv2.0\\businesslogiclayer\\entitiesservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\new folder\\hagagstudies\\businesslogiclayer\\entitiesservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\entitiesservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\vs22\\hotelreservationsv2.0\\businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{3B292288-90A3-432E-B1E1-1B6474138C1A}|DataBaseLayer\\DataBaseLayer.csproj|d:\\new folder\\hagagstudies\\databaselayer\\databaselayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B292288-90A3-432E-B1E1-1B6474138C1A}|DataBaseLayer\\DataBaseLayer.csproj|solutionrelative:databaselayer\\databaselayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\new folder\\hagagstudies\\businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\vs22\\hotelreservationsv2.0\\businesslogiclayer\\entitiesdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\new folder\\hagagstudies\\businesslogiclayer\\entitiesdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\entitiesdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\vs22\\hotelreservationsv2.0\\businesslogiclayer\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\new folder\\hagagstudies\\businesslogiclayer\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\vs22\\hotelreservationsv2.0\\businesslogiclayer\\interfaces\\iresrvationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\new folder\\hagagstudies\\businesslogiclayer\\interfaces\\iresrvationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\interfaces\\iresrvationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\vs22\\hotelreservationsv2.0\\businesslogiclayer\\entitiesservices\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\new folder\\hagagstudies\\businesslogiclayer\\entitiesservices\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60ED7BDA-B9BD-485F-B2AA-AE8CA5801B5F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\entitiesservices\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataBaseLayer",
-              "DocumentMoniker": "D:\\VS22\\HotelReserVationsV2.0\\DataBaseLayer\\DataBaseLayer.csproj",
+              "DocumentIndex": 1,
+              "Title": "DataBaseLayer.csproj",
+              "DocumentMoniker": "D:\\New folder\\HagagStudies\\DataBaseLayer\\DataBaseLayer.csproj",
               "RelativeDocumentMoniker": "DataBaseLayer\\DataBaseLayer.csproj",
-              "ToolTip": "D:\\VS22\\HotelReserVationsV2.0\\DataBaseLayer\\DataBaseLayer.csproj",
+              "ToolTip": "D:\\New folder\\HagagStudies\\DataBaseLayer\\DataBaseLayer.csproj",
               "RelativeToolTip": "DataBaseLayer\\DataBaseLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-17T14:44:55.196Z",
               "EditorCaption": ""
@@ -56,12 +56,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BusinessLogicLayer",
-              "DocumentMoniker": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "Title": "BusinessLogicLayer.csproj",
+              "DocumentMoniker": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
-              "ToolTip": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
               "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-17T13:52:48.921Z",
               "EditorCaption": ""
@@ -70,11 +70,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UserDTO.cs",
-              "DocumentMoniker": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\EntitiesDTOs\\UserDTO.cs",
+              "DocumentMoniker": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\EntitiesDTOs\\UserDTO.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\EntitiesDTOs\\UserDTO.cs",
-              "ToolTip": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\EntitiesDTOs\\UserDTO.cs",
+              "ToolTip": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\EntitiesDTOs\\UserDTO.cs",
               "RelativeToolTip": "BusinessLogicLayer\\EntitiesDTOs\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T13:52:44.583Z",
               "EditorCaption": ""
@@ -83,22 +83,21 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\Interfaces\\IUserService.cs",
+              "DocumentMoniker": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\Interfaces\\IUserService.cs",
               "RelativeToolTip": "BusinessLogicLayer\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T10:34:11.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T10:34:11.09Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "IResrvationService.cs",
-              "DocumentMoniker": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\Interfaces\\IResrvationService.cs",
+              "DocumentMoniker": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\Interfaces\\IResrvationService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Interfaces\\IResrvationService.cs",
-              "ToolTip": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\Interfaces\\IResrvationService.cs",
+              "ToolTip": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\Interfaces\\IResrvationService.cs",
               "RelativeToolTip": "BusinessLogicLayer\\Interfaces\\IResrvationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,13 +105,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\EntitiesServices\\UserService.cs",
+              "DocumentMoniker": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\EntitiesServices\\UserService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\EntitiesServices\\UserService.cs",
-              "ToolTip": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\EntitiesServices\\UserService.cs",
+              "ToolTip": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\EntitiesServices\\UserService.cs",
               "RelativeToolTip": "BusinessLogicLayer\\EntitiesServices\\UserService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAAkAAAAAAAAAA==",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T10:33:11.989Z",
               "EditorCaption": ""
@@ -121,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ReservationService.cs",
-              "DocumentMoniker": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\EntitiesServices\\ReservationService.cs",
+              "DocumentMoniker": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\EntitiesServices\\ReservationService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\EntitiesServices\\ReservationService.cs",
-              "ToolTip": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\EntitiesServices\\ReservationService.cs",
+              "ToolTip": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\EntitiesServices\\ReservationService.cs",
               "RelativeToolTip": "BusinessLogicLayer\\EntitiesServices\\ReservationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

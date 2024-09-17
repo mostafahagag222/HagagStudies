@@ -29,7 +29,7 @@ namespace BusinessLogicLayer.EntitiesServices
 
         public UserType GetUserType(string userName, string passWord )
         {
-            var user = context.Users.SingleOrDefault(u => u.UserName == userName);
+            var userr = context.Users.SingleOrDefault(u => u.UserName == userName);
             if (user == null)
             {
                 throw new Exception("User Not Found");

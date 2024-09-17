@@ -2370,19 +2370,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mosta\\.nuget\\packages\\": {}
+    "C:\\Users\\Mostafa Hagag\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "projectUniqueName": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
       "projectName": "BusinessLogicLayer",
-      "projectPath": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
-      "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-      "outputPath": "D:\\VS22\\HotelReserVationsV2.0\\BusinessLogicLayer\\obj\\",
+      "projectPath": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "packagesPath": "C:\\Users\\Mostafa Hagag\\.nuget\\packages\\",
+      "outputPath": "D:\\New folder\\HagagStudies\\BusinessLogicLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mostafa Hagag\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2396,8 +2396,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\VS22\\HotelReserVationsV2.0\\DataBaseLayer\\DataBaseLayer.csproj": {
-              "projectPath": "D:\\VS22\\HotelReserVationsV2.0\\DataBaseLayer\\DataBaseLayer.csproj"
+            "D:\\New folder\\HagagStudies\\DataBaseLayer\\DataBaseLayer.csproj": {
+              "projectPath": "D:\\New folder\\HagagStudies\\DataBaseLayer\\DataBaseLayer.csproj"
             }
           }
         }
@@ -2432,7 +2432,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

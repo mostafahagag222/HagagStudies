@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS22\\HotelReserVationsV2.0\\DataBaseLayer\\DataBaseLayer.csproj": {}
+    "D:\\New folder\\HagagStudies\\DataBaseLayer\\DataBaseLayer.csproj": {}
   },
   "projects": {
-    "D:\\VS22\\HotelReserVationsV2.0\\DataBaseLayer\\DataBaseLayer.csproj": {
+    "D:\\New folder\\HagagStudies\\DataBaseLayer\\DataBaseLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS22\\HotelReserVationsV2.0\\DataBaseLayer\\DataBaseLayer.csproj",
+        "projectUniqueName": "D:\\New folder\\HagagStudies\\DataBaseLayer\\DataBaseLayer.csproj",
         "projectName": "DataBaseLayer",
-        "projectPath": "D:\\VS22\\HotelReserVationsV2.0\\DataBaseLayer\\DataBaseLayer.csproj",
-        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-        "outputPath": "D:\\VS22\\HotelReserVationsV2.0\\DataBaseLayer\\obj\\",
+        "projectPath": "D:\\New folder\\HagagStudies\\DataBaseLayer\\DataBaseLayer.csproj",
+        "packagesPath": "C:\\Users\\Mostafa Hagag\\.nuget\\packages\\",
+        "outputPath": "D:\\New folder\\HagagStudies\\DataBaseLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mostafa Hagag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
