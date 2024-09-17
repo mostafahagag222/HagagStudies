@@ -1,0 +1,14 @@
+D:\VS22\HotelReserVationsV2.0\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.csproj.AssemblyReference.cache
+D:\VS22\HotelReserVationsV2.0\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS22\HotelReserVationsV2.0\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.AssemblyInfoInputs.cache
+D:\VS22\HotelReserVationsV2.0\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.AssemblyInfo.cs
+D:\VS22\HotelReserVationsV2.0\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.csproj.CoreCompileInputs.cache
+D:\VS22\HotelReserVationsV2.0\DataBaseLayer\bin\Debug\net8.0\DataBaseLayer.deps.json
+D:\VS22\HotelReserVationsV2.0\DataBaseLayer\bin\Debug\net8.0\DataBaseLayer.runtimeconfig.json
+D:\VS22\HotelReserVationsV2.0\DataBaseLayer\bin\Debug\net8.0\DataBaseLayer.dll
+D:\VS22\HotelReserVationsV2.0\DataBaseLayer\bin\Debug\net8.0\DataBaseLayer.pdb
+D:\VS22\HotelReserVationsV2.0\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.dll
+D:\VS22\HotelReserVationsV2.0\DataBaseLayer\obj\Debug\net8.0\refint\DataBaseLayer.dll
+D:\VS22\HotelReserVationsV2.0\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.pdb
+D:\VS22\HotelReserVationsV2.0\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.genruntimeconfig.cache
+D:\VS22\HotelReserVationsV2.0\DataBaseLayer\obj\Debug\net8.0\ref\DataBaseLayer.dll
